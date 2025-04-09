@@ -9,15 +9,6 @@ _Nema Salem, Hebatullah Malik, Asmaa Shams (2019) - Procedia Computer Science_
 
 ---
 
-## 📌 Motivation
-
-Medical images such as X-rays, MRIs, and mammograms often lack adequate contrast due to various acquisition limitations. Enhancing these images using histogram-based techniques can:
-- Improve visual perception for clinicians.
-- Highlight critical details.
-- Assist in accurate diagnosis.
-
----
-
 ## 🧪 Implemented Algorithms
 
 The following four algorithms were implemented and tested:
